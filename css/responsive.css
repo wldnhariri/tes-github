@@ -1,0 +1,53 @@
+@media (max-width: 576px) {
+    /* Navbar style first */
+    .input-search {
+        width: 100%;
+        /* Make search input full width on mobile */
+    }
+
+    .button-wrapper {
+        display: flex;
+        /* Mengubah div menjadi flex container */
+        justify-content: end;
+        /* Meratakan elemen secara horizontal di dalam flex container */
+        align-items: center;
+        /* Meratakan elemen secara vertikal di dalam flex container */
+    }
+    /* Navbar style end */
+}
+
+@media (max-width: 768px) {
+    /* Navbar style first */
+    .input-search {
+        width: 100%;
+        /* Make search input full width on mobile */
+    }
+
+    .button-wrapper {
+        display: flex;
+        /* Mengubah div menjadi flex container */
+        justify-content: end;
+        /* Meratakan elemen secara horizontal di dalam flex container */
+        align-items: center;
+        /* Meratakan elemen secara vertikal di dalam flex container */
+    }
+    /* Navbar style end */
+}
+
+@media (max-width: 992px) {
+    /* Navbar style first */
+    .input-search {
+        width: 100%;
+        /* Make search input full width on mobile */
+    }
+
+    .button-wrapper {
+        display: flex;
+        /* Mengubah div menjadi flex container */
+        justify-content: end;
+        /* Meratakan elemen secara horizontal di dalam flex container */
+        align-items: center;
+        /* Meratakan elemen secara vertikal di dalam flex container */
+    }
+    /* Navbar style end */
+}
